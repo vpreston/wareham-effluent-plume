@@ -6,3 +6,5 @@
 /Weather_Station
 *.png
 *.html
+/GIS_Data/*
+!/GIS_Data/River.*
