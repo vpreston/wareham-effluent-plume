@@ -1,0 +1,8 @@
+*.pyc
+/DGE
+/CTD
+/Nitrate
+/Optode
+/Weather_Station
+*.png
+*.html
