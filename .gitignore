@@ -1,6 +1,7 @@
 *.pyc
 /DGE
 /CTD
+/GGA
 /Nitrate
 /Optode
 /Weather_Station
